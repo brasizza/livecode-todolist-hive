@@ -2,6 +2,7 @@
 <p>
 </p>
 
+
 > Todo using cubit + isar
 
 ### 🏠 [Homepage](https://jacodouhoje.dev/)
@@ -10,6 +11,7 @@
 
 👤 **Marcus Brasizza**
 
+* Youtube: [Youtube Livecode](https://youtu.be/zImUYcq-q30)
 * Website: https://jacodouhoje.dev/
 * Github: [@brasizza](https://github.com/brasizza)
 * LinkedIn: [@mbrasizza](https://linkedin.com/in/mbrasizza)
