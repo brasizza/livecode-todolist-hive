@@ -1,16 +1,22 @@
-# todo_bloc_isar
+<h1 align="center">Welcome to todo_stub_bloc 👋</h1>
+<p>
+</p>
 
-A new Flutter project.
+> Todo using cubit + isar
 
-## Getting Started
+### 🏠 [Homepage](https://jacodouhoje.dev/)
 
-This project is a starting point for a Flutter application.
+## Author
 
-A few resources to get you started if this is your first Flutter project:
+👤 **Marcus Brasizza**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Website: https://jacodouhoje.dev/
+* Github: [@brasizza](https://github.com/brasizza)
+* LinkedIn: [@mbrasizza](https://linkedin.com/in/mbrasizza)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
